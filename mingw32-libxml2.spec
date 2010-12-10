@@ -6,7 +6,7 @@
 
 Name:           mingw32-libxml2
 Version:        2.7.2
-Release:        %mkrel 2
+Release:        %mkrel 3
 Summary:        MinGW Windows libxml2 XML processing library
 
 License:        MIT
