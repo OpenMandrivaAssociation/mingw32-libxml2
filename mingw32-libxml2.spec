@@ -11,7 +11,7 @@ Summary:        MinGW Windows libxml2 XML processing library
 
 License:        MIT
 Group:          Development/Other
-URL:            http://xmlsoft.org/
+URL:            https://xmlsoft.org/
 Source0:        ftp://xmlsoft.org/libxml2/libxml2-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
